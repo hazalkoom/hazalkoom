@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @hazalkoom
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html & css and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-hazalkoom/hazalkoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+yo , im mohamed ahmed AKA hazalkoom
+im 20 years old college student studying in MU in Faculty of Tourism & Hotels.
+im also intersted in programming and becoming a software engineer in backend
+i know python, django framework, html, css, bootstrap5, and MySQL
+i will be puplshing here small projects that i probably made by the help of youtube and chatgbt, so if you can see them and give me tips on how to make them better i will be glad
+and thats it about me for now
