@@ -42,7 +42,8 @@ A Django-based application designed for students to organize:
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-ahmed-mahmoud-766912268/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)]([(https://github.com/hazalkoom/)]
+
 
 ---
