@@ -101,8 +101,9 @@
 
 <br><br>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hazalkoom&repo=mvc-coffeeShop_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)](https://github.com/hazalkoom/mvc-coffeeShop)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hazalkoom&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)](https://github.com/hazalkoom/REPO_NAME_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hazalkoom&repo=mvc-coffeeShop&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)](https://github.com/hazalkoom/mvc-coffeeShop) 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hazalkoom&repo=Food-Tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)](https://github.com/hazalkoom/Food-Tracker)
 
 </div>
 
