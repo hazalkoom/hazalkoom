@@ -122,9 +122,6 @@
 - RESTful APIs with Django and Node.js
 - Interactive frontend experiences with Angular
 
-**Currently Reading:**
-- Clean Code by Robert C. Martin
-- Design Patterns: Elements of Reusable Object-Oriented Software
 
 **My Philosophy:** Keep learning, keep building, and never stop growing! 🚀
 
