@@ -31,7 +31,6 @@
 
 💬 **Ask me about:** Web Development, Python, Django, Angular, Node.js
 
-⚡ **Fun fact:** I debug with console.log() 🐛
 
 🎯 **Goal:** To create impactful applications that solve real-world problems
 
