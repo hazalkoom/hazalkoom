@@ -1,91 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Ahmed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Apps+%F0%9F%8C%9F;Always+Learning+New+Tech+%F0%9F%92%A1)
-  
-</div>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=220&text=Mohamed%20Ahmed&fontSize=65&fontColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1.5&desc=Full%20Stack%20Developer%20%7C%20Systems%20Builder%20%7C%20Lifelong%20Learner&descSize=20&descAlignY=75&descColor=a0aec0" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hazalkoom&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hazalkoom?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Compiling+custom+languages+with+ANTLR4+%F0%9F%A6%80;Deploying+on+AWS+%26+Linux+servers+%E2%98%81%EF%B8%8F;Engineering+solutions%2C+not+just+code+%F0%9F%94%A7" />
+
+<!-- BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hazalkoom&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/hazalkoom?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Egypt%20🇪🇬-red?style=for-the-badge&labelColor=0d1117" />
 </p>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 👨‍💻 About Me
-
-🎓 **College Student** pursuing my passion in technology
-
-🌍 **Location:** Egypt 🇪🇬
-
-💼 **Focus:** Full Stack Development
-
-🔭 **Currently working on:** Building scalable web applications
-
-🌱 **Learning:** Advanced TypeScript, Angular, Microservices Architecture, and Data Analysis
-
-💬 **Ask me about:** Web Development, Python, Django, Angular, Node.js
-
-
-🎯 **Goal:** To create impactful applications that solve real-world problems
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### ⚙️ Backend Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ `whoami`
+
+```bash
+$ cat about.json
+```
+
+```json
+{
+  "name"      : "Mohamed Ahmed",
+  "alias"     : "hazalkoom",
+  "location"  : "Egypt 🇪🇬",
+  "role"      : "Full Stack Developer & Systems Builder",
+  "education" : "Computer Science Student",
+  "interests" : ["Web Development", "Systems Programming", "Compiler Design", "Cloud Infrastructure"],
+  "currently" : {
+    "building"  : "StreamLang — a custom programming language",
+    "learning"  : ["Rust", "Microservices Architecture", "Advanced PostgreSQL"],
+    "exploring" : "Cloud-native patterns on AWS"
+  },
+  "philosophy": "First, solve the problem. Then, write the code.",
+  "open_to"   : "Collaborations, internships & real-world projects"
+}
+```
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hazalkoom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazalkoom&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazalkoom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hazalkoom&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF" />
-</div>
+### 🔤 Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,cs,rust,bash&perline=7&theme=dark" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hazalkoom&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular&perline=7&theme=dark" />
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=django,nodejs,express&perline=7&theme=dark" />
+
+### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7&theme=dark" />
+
+### ☁️ DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&perline=7&theme=dark" />
+
+### 🔧 Tools & IDEs
+<img src="https://skillicons.dev/icons?i=vscode,github,postman&perline=7&theme=dark" />
+
 </div>
 
 ---
@@ -94,75 +75,68 @@
 
 <div align="center">
 
-<a href="https://github.com/hazalkoom?tab=repositories">
-  <img src="https://img.shields.io/badge/-🔥_Check_Out_My_Repositories-667EEA?style=for-the-badge&logoColor=white" />
-</a>
-
-<br><br>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hazalkoom&repo=mvc-coffeeShop&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)](https://github.com/hazalkoom/mvc-coffeeShop) 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hazalkoom&repo=Food-Tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)](https://github.com/hazalkoom/Food-Tracker)
+| 🛒 **smartCart** | 🔭 **WildeScope** | 🦀 **StreamLang** |
+|---|---|---|
+| A smart e-commerce shopping cart application with real-time product management, user authentication, and order tracking. | A wildlife observation tracking platform that lets users log, map, and analyze animal sightings in nature. | A custom-designed programming language built with **ANTLR4** — complete with lexer, parser, and interpreter. |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![ANTLR4](https://img.shields.io/badge/-ANTLR4-EE4000?style=flat-square) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust) |
+| [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/smartCart) | [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/WildeScope) | [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/StreamLang) |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-**What I'm Learning:**
-- 🔹 Advanced TypeScript patterns and best practices
-- 🔹 Angular framework deep dive
-- 🔹 Microservices architecture and design patterns
-- 🔹 Data analysis and visualization with Pandas
-
-**What I'm Building:**
-- Full-stack web applications using modern technologies
-- RESTful APIs with Django and Node.js
-- Interactive frontend experiences with Angular
-
-
-**My Philosophy:** Keep learning, keep building, and never stop growing! 🚀
-
----
-
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazalkoom&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hazalkoom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a0aec0&ring_color=00d4ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazalkoom&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&sideNums=ffffff&currStreakNum=ffffff" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazalkoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hazalkoom&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hazalkoom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Leveling Up
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-mahmoud-766912268/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hazalkoom/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohawksq11/)
+
+```
+┌──────────────────────────────────────────────────┐
+│  🦀  Rust          ████████░░░░   Systems depth   │
+│  ☁️  AWS/EC2       ██████░░░░░░   Deploy & scale  │
+│  🐘  PostgreSQL    ███████░░░░░   DB Design pro   │
+│  🏗️  Microservices ████░░░░░░░░   Arch patterns   │
+│  📊  Data Analysis ██████░░░░░░   Pandas & viz    │
+└──────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
+## 🌐 Connect
+
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-mahmoud-766912268/)
+[![GitHub](https://img.shields.io/badge/GitHub-hazalkoom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hazalkoom/)
+[![Instagram](https://img.shields.io/badge/Instagram-mohawksq11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohawksq11/)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
 
-<div align="center">
-  
-  **⭐ From [hazalkoom](https://github.com/hazalkoom) with 💙**
-  
-  *"First, solve the problem. Then, write the code."* - John Johnson
-  
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer&reversal=false" />
+
 </div>
