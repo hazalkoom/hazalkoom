@@ -34,7 +34,7 @@ $ cat about.json
   "education" : "Software Engineering Diploma — EPIC Institute of Technology",
   "interests" : ["Backend Systems", "Microservices", "Compiler Design", "Cloud Infrastructure"],
   "currently" : {
-    "building"  : "MeetingDrop — AI-powered meeting summarizer over gRPC microservices",
+    "building"  : "AeroLock — High-performance distributed flight booking engine",
     "learning"  : ["gRPC & Protocol Buffers", "FastAPI", "Microservices Architecture"],
     "exploring" : "Cloud-native patterns on AWS"
   },
@@ -75,11 +75,11 @@ $ cat about.json
 
 <div align="center">
 
-| 🎙️ **MeetingDrop** | 🛒 **SmartCart** | 🦀 **StreamLang** |
+| 🔒 **AeroLock** | 🛒 **SmartCart** | 🦀 **StreamLang** |
 |---|---|---|
-| Zero-auth AI meeting summarizer. Drop an MP3, get a shareable link with summary, action items & assignees. 3-service **gRPC microservices** architecture. | Production-grade e-commerce platform deployed on **AWS EC2**. Redis job queues, Paymob payment gateway, real-time Socket.io updates, and 200+ automated tests. | A fully custom programming language built from scratch with **ANTLR4** — lexer, parser, interpreter, and a live playground deployed on Hugging Face. |
-| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![ANTLR4](https://img.shields.io/badge/-ANTLR4-EE4000?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) |
-| [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/MeetingDrop) | [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/smartCart) | [![Demo](https://img.shields.io/badge/Live%20Demo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://huggingface.co/spaces/Hazalkoom/streamlang-playground) |
+| Distributed flight booking engine preventing double-booking using Redis distributed locks and PostgreSQL ACID ledger. 3-service **gRPC microservices** architecture. | Production-grade e-commerce platform deployed on **AWS EC2**. Redis job queues, Paymob payment gateway, real-time Socket.io updates, and 200+ automated tests. | A fully custom programming language built from scratch with **ANTLR4** — lexer, parser, interpreter, and a live playground deployed on Hugging Face. |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![ANTLR4](https://img.shields.io/badge/-ANTLR4-EE4000?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) |
+| [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/AeroLock) | [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/smartCart) | [![Demo](https://img.shields.io/badge/Live%20Demo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://huggingface.co/spaces/Hazalkoom/streamlang-playground) |
 
 | 🔭 **WildScope** | ☕ **Coffee Shop MVC** | |
 |---|---|---|
