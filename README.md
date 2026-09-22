@@ -1,125 +1,103 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=220&text=Mohamed%20Ahmed&fontSize=65&fontColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1.5&desc=Full%20Stack%20%26%20Backend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Lifelong%20Learner&descSize=20&descAlignY=75&descColor=a0aec0" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:1a0c0c,65:3b0d0d,100:050505&height=220&text=Mohamed%20Ahmed&fontSize=64&fontColor=f3efe8&animation=fadeIn&stroke=b30d0d&strokeWidth=1.5&desc=FULL%20STACK%20%26%20BACKEND%20ENGINEER%20%7C%20SYSTEMS%20BUILDER%20%7C%20LIFELONG%20LEARNER&descSize=18&descAlignY=75&descColor=c7c2bc" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+scalable+microservices+%F0%9F%9A%80;Compiling+custom+languages+with+ANTLR4+%F0%9F%A6%80;Deploying+on+AWS+EC2+%26+Docker+%E2%98%81%EF%B8%8F;Engineering+solutions%2C+not+just+code+%F0%9F%94%A7" />
+<!-- TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=c7b9af&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=Building+resilient+systems+%F0%9F%9A%80;Designing+backend+architecture+%F0%9F%93%8A;Deploying+on+AWS+with+Docker+%E2%98%81%EF%B8%8F;Shaping+solutions+that+last+%F0%9F%94%A7" />
 
 <!-- BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hazalkoom&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=hazalkoom&style=for-the-badge&color=b30d0d&labelColor=0a0a0a&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/hazalkoom?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/hazalkoom?style=for-the-badge&color=8a8a8a&labelColor=0a0a0a&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Egypt%20🇪🇬-red?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Based%20in-Egypt%20🇪🇬-b30d0d?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ `whoami`
-
-```bash
-$ cat about.json
-```
-
-```json
-{
-  "name"      : "Mohamed Ahmed",
-  "alias"     : "hazalkoom",
-  "location"  : "Egypt 🇪🇬",
-  "role"      : "Junior Full Stack & Backend Engineer",
-  "education" : "Software Engineering Diploma — EPIC Institute of Technology",
-  "interests" : ["Backend Systems", "Microservices", "Compiler Design", "Cloud Infrastructure"],
-  "currently" : {
-    "building"  : "AeroLock — High-performance distributed flight booking engine",
-    "learning"  : ["gRPC & Protocol Buffers", "FastAPI", "Microservices Architecture"],
-    "exploring" : "Cloud-native patterns on AWS"
-  },
-  "philosophy": "First, solve the problem. Then, write the code.",
-  "open_to"   : "Junior backend / full-stack roles and real-world collaborations"
-}
-```
-
----
-
-## 🛠️ Tech Arsenal
+## Overview
 
 <div align="center">
 
-### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,bash,rust&perline=7&theme=dark" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&perline=7&theme=dark" />
-
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&perline=7&theme=dark" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=7&theme=dark" />
-
-### ☁️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=7&theme=dark" />
-
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=vscode,postman&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws&perline=8&theme=dark" />
 
 </div>
 
+I build backend systems, scalable APIs, and product-ready features with a focus on reliability, clean architecture, and practical problem solving.
+
+- Name: Mohamed Ahmed
+- Alias: hazalkoom
+- Role: Junior Full Stack & Backend Engineer
+- Location: Egypt
+- Focus: backend systems, microservices, cloud infrastructure, compiler design
+
 ---
 
-## 🚀 Featured Projects
+## Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,rust&perline=8&theme=dark" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,scss&perline=8&theme=dark" />
+
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,grpc&perline=8&theme=dark" />
+
+### Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,linux,git&perline=8&theme=dark" />
+
+---
+
+## Projects
 
 <div align="center">
 
-| 🔒 **AeroLock** | 🛒 **SmartCart** | 🦀 **StreamLang** |
+| **AeroLock** | **SmartCart** | **StreamLang** |
 |---|---|---|
-| Distributed flight booking engine preventing double-booking using Redis distributed locks and PostgreSQL ACID ledger. 3-service **gRPC microservices** architecture. | Production-grade e-commerce platform deployed on **AWS EC2**. Redis job queues, Paymob payment gateway, real-time Socket.io updates, and 200+ automated tests. | A fully custom programming language built from scratch with **ANTLR4** — lexer, parser, interpreter, and a live playground deployed on Hugging Face. |
-| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![ANTLR4](https://img.shields.io/badge/-ANTLR4-EE4000?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) |
-| [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/AeroLock) | [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/smartCart) | [![Demo](https://img.shields.io/badge/Live%20Demo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://huggingface.co/spaces/Hazalkoom/streamlang-playground) |
+| Distributed booking engine designed to prevent double-booking with Redis locks and PostgreSQL transactional logic. Built around a three-service backend flow. | Production-style e-commerce platform deployed on AWS EC2 with queues, payments, real-time updates, and automated backend checks. | Custom programming language built with ANTLR4 featuring a lexer, parser, interpreter, and interactive playground. |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![ANTLR4](https://img.shields.io/badge/ANTLR4-EE4000?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) |
+| [Repo](https://github.com/hazalkoom/AeroLock) | [Repo](https://github.com/hazalkoom/smartCart) | [Demo](https://huggingface.co/spaces/Hazalkoom/streamlang-playground) |
 
-| 🔭 **WildScope** | ☕ **Coffee Shop MVC** | |
+| **WildScope** | **Coffee Shop MVC** | |
 |---|---|---|
-| High-performance Angular 21 SPA with infinite scroll, real-time animal data from API Ninjas & Wikimedia Commons, and AOS/Lottie animations. | Full MVC application with a dual-database system (MongoDB + MySQL), Chart.js analytics dashboard, and Role-Based Access Control (RBAC). | |
-| ![Angular](https://img.shields.io/badge/-Angular_21-DD0031?style=flat-square&logo=angular) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) | |
-| [![Demo](https://img.shields.io/badge/Live%20Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://wilde-scope.vercel.app/) | [![Repo](https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hazalkoom/mvc-coffeeShop) | |
+| Angular 21 single-page app with infinite scroll, live data integrations, and motion-based UI feedback. | Role-based MVC project with MongoDB + MySQL, analytics dashboard, and secure business workflows. | |
+| ![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) | |
+| [Demo](https://wilde-scope.vercel.app/) | [Repo](https://github.com/hazalkoom/mvc-coffeeShop) | |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hazalkoom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a0aec0&ring_color=00d4ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazalkoom&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0&sideNums=ffffff&currStreakNum=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hazalkoom&show_icons=true&theme=dark&hide_border=true&bg_color=0b0b0c&title_color=c9b7a8&icon_color=b30d0d&text_color=d8d0ca&ring_color=b30d0d" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazalkoom&theme=dark&hide_border=true&background=0b0b0c&ring=b30d0d&fire=b30d0d&currStreakLabel=c9b7a8&sideLabels=d8d0ca&dates=d8d0ca&sideNums=d8d0ca&currStreakNum=d8d0ca" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazalkoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hazalkoom&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hazalkoom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazalkoom&layout=compact&theme=dark&hide_border=true&bg_color=0b0b0c&title_color=c9b7a8&text_color=d8d0ca&langs_count=8" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hazalkoom&theme=github-dark&hide_border=true&area=true&bg_color=0b0b0c&color=b30d0d&line=8a8a8a&point=d8d0ca" />
 </div>
 
 ---
 
-## 🌱 Currently Leveling Up
+## Currently exploring
 
 <div align="center">
 
-```
+```text
 ┌──────────────────────────────────────────────────────┐
-│  📡  gRPC & Protobuf  ████████░░░░   Microservices   │
-│  ⚡  FastAPI          ███████░░░░░   Async Python     │
-│  ☁️  AWS              ██████░░░░░░   Deploy & scale   │
-│  🐘  PostgreSQL       ███████░░░░░   DB design pro    │
-│  🦀  Rust             ████░░░░░░░░   Systems depth    │
+│  📡 gRPC & Protobuf    ████████░░░░   Communication │
+│  ⚡ FastAPI            ███████░░░░░   Async Python   │
+│  ☁️ AWS                ██████░░░░░░   Deployment     │
+│  🐘 PostgreSQL         ███████░░░░░   Data modeling  │
+│  🦀 Rust               ████░░░░░░░░   Systems depth  │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -127,7 +105,7 @@ $ cat about.json
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -143,6 +121,6 @@ $ cat about.json
 
 *"The best error message is the one that never shows up."* — Thomas Fuchs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:1a0c0c&height=90&section=footer&reversal=false" />
 
 </div>
